@@ -18,3 +18,13 @@ Politeknik Harapan Bersama Tegal
 - BootstrapIcon
 - FontAwesome
 ```
+
+### Cara Menjalankan Project
+
+```
+- copy. env.example .env
+- composer install
+- php artisan key:generate
+- edit database pada env
+- php artisan migrate
+```
