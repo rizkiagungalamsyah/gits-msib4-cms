@@ -1,0 +1,72 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+h3 {
+    margin-top: 5px;
+    text-align: center;
+}
+h6 {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+}
+body .navbar {
+    background-color: #008b8b;
+    padding: 0;
+    margin: 0;
+}
+.btn-primary {
+    background-color: #008b8b;
+}
+.card-deck {
+    width: 400px;
+}
+.card {
+    width: 300px;
+    height: 350px;
+}
+.card-group {
+    margin-top: 15px;
+}
+p {
+    text-align: justify;
+}
+.container-fluid {
+    text-align: center;
+    margin: 10px;
+}
+.carousel-inner {
+    width: 100%;
+    height: 500px;
+}
+.text-muted {
+    text-align: center;
+}
+.icon .fa-solid {
+    display: block;
+}
+.navbar-brand {
+    color: rgb(231, 231, 231);
+}
+.nav-icon {
+    text-decoration: none;
+}
+.nav-link {
+    color: white;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 19px;
+    background-color: none;
+    padding: 6px;
+    font-family: "Poppins", sans-serif;
+}
+
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+
+    text-align: center;
+    font-size: 15px;
+}
